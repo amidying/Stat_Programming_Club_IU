@@ -8,4 +8,6 @@
 num = int(input("Enter the number: "))
 if num >=90 and num <= 100:
     print("Excellent")
-elif 
+elif num <90 and num >= 80:
+    print("A")
+# do the rest by yourself just give it a try 
