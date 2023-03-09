@@ -17,8 +17,8 @@ while run:
 '''
 # print from 1 to 1000 using while loop
 
-i = 1
-while i<=1000:
-    print(i)
-    i += 1
-j = 1
+# i = 1
+# while i<=1000:
+#     print(i)
+#     i += 1
+# j = 1
