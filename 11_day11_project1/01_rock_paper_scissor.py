@@ -4,8 +4,8 @@ option = ['r','p','s']
 
 comp = random.choice(option)
 
-my_choice = input("Enter your choice: ")
-my_choice = my_choice.lower()
+my_choice = input("Enter your choice: ").lower()
+# my_choice = my_choice.lower()
 
 if my_choice == comp:
     print("Draw")
