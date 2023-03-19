@@ -1,16 +1,16 @@
 
 
-# def factorialFunc(x):
-#     fact = 1
-#     for i in range(1,x+1):
-#         fact *= i # fact = fact*i
-#     return fact
+def factorialFunc(x):
+    fact = 1
+    for i in range(1,x+1):
+        fact *= i # fact = fact*i
+    return fact
 
 
-# x = factorialFunc(5)
-# print(x)
-# print(factorialFunc(6))
-# print(factorialFunc(4))
+x = factorialFunc(5)
+print(x)
+print(factorialFunc(6))
+print(factorialFunc(4))
 
 def factorialRec(n):
     if n == 0 or n == 1:
